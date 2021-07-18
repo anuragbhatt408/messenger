@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project Provides Group Chat with Friends and Family [Messaging app](https://messenger-f7bf6.web.app/).
+## From SomeTime Project is stopped working due to change in firebase terms and condititions so please wait till I resolve this.
 
 ## Available Scripts
 
